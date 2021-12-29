@@ -12,8 +12,6 @@ const options = {
   margin: 1,
   borderStyle: "double",
   backgroundColor: "black",
-  title: "Neil Italia",
-  titleAlignment: "center",
 };
 
 // Text + chalk definitions

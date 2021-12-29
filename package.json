@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bnb/bitandbang.git"
+    "url": "git+https://github.com:neilitalia/card.git"
   },
-  "homepage": "https://bnb.im",
+  "homepage": "https://neilitalia.dev",
   "scripts": {
     "prepublish": "npm run build",
     "build": "node build.js \n# Thanks for viweing my card!",
@@ -26,7 +26,7 @@
     "npx card",
     "business card"
   ],
-  "author": "Tierney Cyren <hello@bnb.im> (http://bnb.im)",
+  "author": "Neil Italia <hello@neilitalia.dev> (https://neilitalia.dev)",
   "license": "MIT",
   "files": [
     "bin/card.js",
@@ -38,7 +38,7 @@
     "standard": "^12.0.1"
   },
   "bugs": {
-    "url": "https://github.com/bnb/bitandbang/issues"
+    "url": "https://github.com/neilitalia/card/issues"
   },
   "dependencies": {},
   "publishConfig": {
