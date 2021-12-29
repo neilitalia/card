@@ -36,6 +36,7 @@ const data = {
   labelWeb: chalk.white.bold("        Web:"),
   labelCard: chalk.white.bold("       Card:"),
   labelBlog: chalk.white.bold("       Blog:"),
+  labelEmail: chalk.white.bold("      Email:"),
 };
 
 // Actual strings we're going to output
@@ -70,7 +71,7 @@ const output =
   npming +
   newline +
   newline +
-  carding; // data.labelCard + data.npx
+  carding;
 
 fs.writeFileSync(
   path.join(__dirname, "bin/output"),
