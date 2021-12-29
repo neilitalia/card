@@ -1,6 +1,6 @@
 {
   "name": "neilitalia",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A personal card for Neil Italia (@neilitalia)",
   "main": "/bin/card.js",
   "bin": {
@@ -20,11 +20,10 @@
   },
   "keywords": [
     "card",
-    "npm",
     "npm card",
-    "npx",
     "npx card",
-    "business card"
+    "business card",
+    "neil italia"
   ],
   "author": "Neil Italia <hello@neilitalia.dev> (https://neilitalia.dev)",
   "license": "MIT",
@@ -40,8 +39,5 @@
   "bugs": {
     "url": "https://github.com/neilitalia/card/issues"
   },
-  "dependencies": {},
-  "publishConfig": {
-    "registry": "https://npm.registry.github.com/"
-  }
+  "dependencies": {}
 }
