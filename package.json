@@ -1,10 +1,10 @@
 {
-  "name": "@bnb/card",
-  "version": "1.6.0",
-  "description": "A personal card for Tierney Cyren (@bitandbang)",
+  "name": "neilitalia",
+  "version": "1.0.0",
+  "description": "A personal card for Neil Italia (@neilitalia)",
   "main": "/bin/card.js",
   "bin": {
-    "bitandbang": "./bin/card.js"
+    "neilitalia": "./bin/card.js"
   },
   "repository": {
     "type": "git",
@@ -13,7 +13,7 @@
   "homepage": "https://bnb.im",
   "scripts": {
     "prepublish": "npm run build",
-    "build": "node build.js",
+    "build": "node build.js \n# Thanks for viweing my card!",
     "dev": "npm run build && node ./bin/card.js",
     "lint": "standard",
     "test": "echo \"Error: no test specified\" && exit 1"
